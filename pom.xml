@@ -64,6 +64,7 @@
       </plugins>
     </pluginManagement>
   </build>
-     <finalName>docker-jenkins-integration-sample</finalName>
+       <finalName>docker-jenkins-integration-sample</finalName>
   </build>
+    
 </project>
